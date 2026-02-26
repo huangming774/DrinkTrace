@@ -1,0 +1,8 @@
+targets:
+  $default:
+    builders:
+      dart_mappable:
+        enabled: true
+      objectbox_generator:
+        enabled: true
+
